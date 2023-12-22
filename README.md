@@ -4,4 +4,4 @@
 **Languages & Tools:** HTML, CSS, PHP<br>
 
 # Preview
-https://www.youtube.com/watch?v=3hXCh4AMD10&ab_channel=NotYoel
+https://github.com/NotYoel/T0DO/assets/100881465/a3e00a82-a480-4efc-919d-eca9d937649e
